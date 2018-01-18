@@ -1,4 +1,4 @@
 # Programe
 ทดสอบ
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](screenshots/test.png "Description goes here")
